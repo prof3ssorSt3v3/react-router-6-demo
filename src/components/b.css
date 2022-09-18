@@ -1,0 +1,9 @@
+.sectionB{
+  min-height: 80vh;
+  background-color: coral;
+  color: black;
+  padding: 1rem 4rem;
+}
+.sectionB h1{
+  font-size: 3rem;
+}

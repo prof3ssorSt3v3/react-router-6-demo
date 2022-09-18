@@ -1,0 +1,12 @@
+nav{
+  padding: 1rem 4rem;
+  border-bottom: 1px solid black;
+}
+nav a{
+  padding: 0.5rem 1rem;
+  color: coral;
+}
+nav a.activeLink{
+  color: white;
+  background-color: crimson;
+}

@@ -1,0 +1,16 @@
+.sectionC{
+  min-height: 80vh;
+  background-color: limegreen;
+  color: black;
+  padding: 1rem 4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.sectionC h1{
+  font-size: 3rem;
+}
+.sectionC p{
+  cursor: pointer;
+}
